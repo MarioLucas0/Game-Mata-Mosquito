@@ -4,6 +4,8 @@ Projeto Realizado no curso Desenvolvimento web
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=PROJETO%20FINALIZADO&color=GREEN&style=for-the-badge)
  
+ <img src="https://postimg.cc/BLnqk1gH" height="200" width="100%">
+
 --- 
 
 ## 📋 Índice
