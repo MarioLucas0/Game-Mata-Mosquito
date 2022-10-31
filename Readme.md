@@ -34,7 +34,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ## 🛠️ Projeto no ar
 
-* [Netlify](https://gamematamosquito2.netlify.app/)
+* [Netlify](https://game-mata-mosquito2.netlify.app/)
  
 ## 🎁 Expressões de gratidão
 
